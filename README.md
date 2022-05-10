@@ -62,7 +62,7 @@ The "A" subfolder is for the AF ECG type, the "O" subfolder is for other ECG typ
 [tensorflow_simulated_dataset.ipynb](https://github.com/765218957/COMP3931/blob/main/CNN_ECG/tensorflow_simulated_dataset.ipynb) uses data with simulated ECG dataset for CNN training
 
 
-##file tree
+Directory Tree
 ```
 +---CNN_ECG
 |   +---.ipynb_checkpoints
