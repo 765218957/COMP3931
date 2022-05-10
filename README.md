@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # COMP3931
 
 ## Simulation of ECG
@@ -34,11 +33,11 @@ These picture show the final drawing result:
 
 
 
-![1.jpg](https://github.com/765218957/COMP3931/blob/main/CNN_ECG/simulated_dataset/training/A/1.jpg){:height="50%" width="50%"}
-![2.jpg](https://github.com/765218957/COMP3931/blob/main/CNN_ECG/simulated_dataset/training/A/2.jpg){:height="50%" width="50%"}
-![3.jpg](https://github.com/765218957/COMP3931/blob/main/CNN_ECG/simulated_dataset/training/A/3.jpg){:height="50%" width="50%"}
-![4.jpg](https://github.com/765218957/COMP3931/blob/main/CNN_ECG/simulated_dataset/training/A/4.jpg){:height="50%" width="50%"}
-![5.jpg](https://github.com/765218957/COMP3931/blob/main/CNN_ECG/simulated_dataset/training/A/5.jpg){:height="50%" width="50%"}
+![1.jpg](https://github.com/765218957/COMP3931/blob/main/CNN_ECG/simulated_dataset/training/A/1.jpg)
+![2.jpg](https://github.com/765218957/COMP3931/blob/main/CNN_ECG/simulated_dataset/training/A/2.jpg)
+![3.jpg](https://github.com/765218957/COMP3931/blob/main/CNN_ECG/simulated_dataset/training/A/3.jpg)
+![4.jpg](https://github.com/765218957/COMP3931/blob/main/CNN_ECG/simulated_dataset/training/A/4.jpg)
+![5.jpg](https://github.com/765218957/COMP3931/blob/main/CNN_ECG/simulated_dataset/training/A/5.jpg)
 are the simulated ECG image after segmentation.
 
 ## CNN
