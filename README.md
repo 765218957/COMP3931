@@ -5,23 +5,23 @@
 
 #### Construction of non-linear dynamic model
 
-File [ddefun.m](https://github.com/765218957/COMP3931/blob/main/simulated ECG/ddefun.m) is the handle to the `dde23()` function.
+File [ddefun.m](https://github.com/765218957/COMP3931/blob/main/simulated_ECG/ddefun.m) is the handle to the `dde23()` function.
 
-File [history.m](https://github.com/765218957/COMP3931/blob/main/simulated ECG/history.m) is the initial condition for the simulation.
+File [history.m](https://github.com/765218957/COMP3931/blob/main/simulated_ECG/history.m) is the initial condition for the simulation.
 
 #### Generation of atrial fibrillation ECG
 
-File [main2.m](https://github.com/765218957/COMP3931/blob/main/simulated ECG/main2.m) is the calculation of the dde23 equation and the plotting of the AF image.
+File [main2.m](https://github.com/765218957/COMP3931/blob/main/simulated_ECG/main2.m) is the calculation of the dde23 equation and the plotting of the AF image.
 
 These picture show the final drawing result:
 
-[AF.png](https://github.com/765218957/COMP3931/blob/main/simulated ECG/AF.png)
+[AF.png](https://github.com/765218957/COMP3931/blob/main/simulated_ECG/AF.png)
 
-[AV.png](https://github.com/765218957/COMP3931/blob/main/simulated ECG/AV.png)
+[AV.png](https://github.com/765218957/COMP3931/blob/main/simulated_ECG/AV.png)
 
-[HP.png](https://github.com/765218957/COMP3931/blob/main/simulated ECG/HP.png)
+[HP.png](https://github.com/765218957/COMP3931/blob/main/simulated_ECG/HP.png)
 
-[SA.png](https://github.com/765218957/COMP3931/blob/main/simulated ECG/SA.png)
+[SA.png](https://github.com/765218957/COMP3931/blob/main/simulated_ECG/SA.png)
 
 ## Processing of training data
 
