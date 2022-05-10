@@ -11,7 +11,7 @@ File [history.m](https://github.com/765218957/COMP3931/blob/main/simulated%20ECG
 
 #### Generation of atrial fibrillation ECG
 
-File [main2.m](https://github.com/765218957/COMP3931/blob/main/simulated_ECG/main2.m) is the calculation of the dde23 equation and the plotting of the AF image.
+File [main2.m](https://github.com/765218957/COMP3931/blob/main/simulated%20ECG/main2.m) is the calculation of the dde23 equation and the plotting of the AF image.
 
 These picture show the final drawing result:
 
@@ -34,11 +34,11 @@ These picture show the final drawing result:
 
 
 
-[1.jpg](https://github.com/765218957/COMP3931/blob/main/CNN_ECG/simulated_dataset/training/A/1.jpg) 
-[2.jpg](https://github.com/765218957/COMP3931/blob/main/CNN_ECG/simulated_dataset/training/A/2.jpg) 
-[3.jpg](https://github.com/765218957/COMP3931/blob/main/CNN_ECG/simulated_dataset/training/A/3.jpg) 
-[4.jpg](https://github.com/765218957/COMP3931/blob/main/CNN_ECG/simulated_dataset/training/A/4.jpg) 
-[5.jpg](https://github.com/765218957/COMP3931/blob/main/CNN_ECG/simulated_dataset/training/A/5.jpg) 
+![1.jpg](https://github.com/765218957/COMP3931/blob/main/CNN_ECG/simulated_dataset/training/A/1.jpg) 
+![2.jpg](https://github.com/765218957/COMP3931/blob/main/CNN_ECG/simulated_dataset/training/A/2.jpg) 
+![3.jpg](https://github.com/765218957/COMP3931/blob/main/CNN_ECG/simulated_dataset/training/A/3.jpg) 
+![4.jpg](https://github.com/765218957/COMP3931/blob/main/CNN_ECG/simulated_dataset/training/A/4.jpg) 
+![5.jpg](https://github.com/765218957/COMP3931/blob/main/CNN_ECG/simulated_dataset/training/A/5.jpg) 
 are the simulated ECG image after segmentation.
 
 ## CNN
@@ -62,7 +62,7 @@ The "A" subfolder is for the AF ECG type, the "O" subfolder is for other ECG typ
 [tensorflow_simulated_dataset.ipynb](https://github.com/765218957/COMP3931/blob/main/CNN_ECG/tensorflow_simulated_dataset.ipynb) uses data with simulated ECG dataset for CNN training
 
 
-Directory Tree
+## Directory Tree
 ```
 +---CNN_ECG
 |   +---.ipynb_checkpoints
