@@ -15,13 +15,13 @@ File [main2.m](https://github.com/765218957/COMP3931/blob/main/simulated_ECG/mai
 
 These picture show the final drawing result:
 
-[AF.png](https://github.com/765218957/COMP3931/blob/main/simulated_ECG/AF.png)
+![AF.png](https://github.com/765218957/COMP3931/blob/main/simulated_ECG/AF.png)
 
-[AV.png](https://github.com/765218957/COMP3931/blob/main/simulated_ECG/AV.png)
+![AV.png](https://github.com/765218957/COMP3931/blob/main/simulated_ECG/AV.png)
 
-[HP.png](https://github.com/765218957/COMP3931/blob/main/simulated_ECG/HP.png)
+![HP.png](https://github.com/765218957/COMP3931/blob/main/simulated_ECG/HP.png)
 
-[SA.png](https://github.com/765218957/COMP3931/blob/main/simulated_ECG/SA.png)
+![SA.png](https://github.com/765218957/COMP3931/blob/main/simulated_ECG/SA.png)
 
 ## Processing of training data
 
