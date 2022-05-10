@@ -34,7 +34,12 @@ These picture show the final drawing result:
 
 
 
-[1.jpg](https://github.com/765218957/COMP3931/blob/main/CNN_ECG/simulated_dataset/training/A/1.jpg) [2.jpg](https://github.com/765218957/COMP3931/blob/main/CNN_ECG/simulated_dataset/training/A/2.jpg) [3.jpg](https://github.com/765218957/COMP3931/blob/main/CNN_ECG/simulated_dataset/training/A/3.jpg) [4.jpg](https://github.com/765218957/COMP3931/blob/main/CNN_ECG/simulated_dataset/training/A/4.jpg) [5.jpg](https://github.com/765218957/COMP3931/blob/main/CNN_ECG/simulated_dataset/training/A/5.jpg) are the simulated ECG image after segmentation.
+[1.jpg](https://github.com/765218957/COMP3931/blob/main/CNN_ECG/simulated_dataset/training/A/1.jpg) 
+[2.jpg](https://github.com/765218957/COMP3931/blob/main/CNN_ECG/simulated_dataset/training/A/2.jpg) 
+[3.jpg](https://github.com/765218957/COMP3931/blob/main/CNN_ECG/simulated_dataset/training/A/3.jpg) 
+[4.jpg](https://github.com/765218957/COMP3931/blob/main/CNN_ECG/simulated_dataset/training/A/4.jpg) 
+[5.jpg](https://github.com/765218957/COMP3931/blob/main/CNN_ECG/simulated_dataset/training/A/5.jpg) 
+are the simulated ECG image after segmentation.
 
 ## CNN
 
@@ -52,10 +57,12 @@ The "A" subfolder is for the AF ECG type, the "O" subfolder is for other ECG typ
 
 
 
-[tensorflow_original_dataset.ipynb](https://github.com/765218957/COMP3931/blob/main/CNN_ECG/tensorflow_original_dataset.ipynb)  uses original dataset for CNN training
+[tensorflow_original_dataset.ipynb](https://github.com/765218957/COMP3931/blob/main/CNN_ECG/tensorflow_original_dataset.ipynb) uses original dataset for CNN training.
+
 [tensorflow_simulated_dataset.ipynb](https://github.com/765218957/COMP3931/blob/main/CNN_ECG/tensorflow_simulated_dataset.ipynb) uses data with simulated ECG dataset for CNN training
-=======
-# COMP3931
+
+
+##file tree
 ```
 +---CNN_ECG
 |   +---.ipynb_checkpoints
@@ -97,4 +104,3 @@ The "A" subfolder is for the AF ECG type, the "O" subfolder is for other ECG typ
 |       \---~
 \---simulated ECG
 ```
->>>>>>> 1856d5fd08569eb768af081e5738b4576863ea7d
